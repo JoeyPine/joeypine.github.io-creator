@@ -1,0 +1,4 @@
+baseURL = "https://joeypine.github.io/"
+languageCode = "zh-Hans"
+title = "Song的博客"
+theme = "ananke"
