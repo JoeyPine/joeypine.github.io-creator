@@ -1,7 +1,7 @@
 ---
 title: "Colletion体系的常用类及其数据结构"
 date: 2020-04-16T00:13:51+08:00
-draft: false
+draft: falseg
 ---
 ## Colletion体系
 **Collection体系**：Collection是所有集合类的父类，它提供了一组约定，任何实现了该接口表示履行这个约定，它的子类各自有不同的数据结构，但功能相似，这就形成集合的体系结构。
